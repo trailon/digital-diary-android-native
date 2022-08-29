@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Digital Diary</string>
+    <string name="pick_mood">Pick Mood 😍</string>
+    <string name="def_mood">😍</string>
+    <string name="title_example">Title Example</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="enter_content">Enter Content</string>
+    <string name="add">ADD</string>
+    <string name="enter_password_optional">Enter Password (Optional)</string>
+    <string name="lovely">😍</string>
+    <string name="happy">🙂</string>
+    <string name="loved">🥰</string>
+    <string name="sad">🙁</string>
+    <string name="desperate">😭</string>
+    <string name="angry">😡</string>
+    <string name="shocked">😯</string>
+</resources>
